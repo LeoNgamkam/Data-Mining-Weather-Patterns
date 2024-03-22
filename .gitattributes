@@ -1,1 +1,0 @@
-C:/Users/Leo[[:space:]]Ngamkam/Documents/CU[[:space:]]Boulder[[:space:]]MSDS/Second[[:space:]]Semester/Data[[:space:]]Mining/Weather[[:space:]]Raw[[:space:]]Data/Precipitation/PRECT_1231_001_MON.nc filter=lfs diff=lfs merge=lfs -text
